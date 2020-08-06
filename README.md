@@ -1,6 +1,7 @@
 # SparkyDzBot v1.0
 
 - SparkyDzBot v1.0 is a Python tool that generate phone numbers (WorldWide) then make a HQ Combolist.
+- Contact : raficronaldo89@gmail.com
 ## Required libraries
 
 
